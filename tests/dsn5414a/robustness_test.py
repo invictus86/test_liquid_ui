@@ -15,11 +15,9 @@ sys.path.insert(0, parentdir)
 from ektlib import ekt_dta, ekt_mod, ekt_diseqc, ekt_status, ekt_button, ekt_rds
 
 
-def test_stop_dta():
+def test_100_times_channel_switch():
     """
-    perform stop the stream play.
+    100 times of channel switch with the fastest speed
     :return: None
     """
-    _, _, dta = v5utils.v5_sys_init()
-    dta.stop()
-
+    pass
