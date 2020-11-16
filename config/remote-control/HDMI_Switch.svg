@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg4821"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="HDMI_Switch.svg">
+  <defs
+     id="defs4815" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="709.95377"
+     inkscape:cy="592.06971"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-grids="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4818">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g7053">
+      <rect
+         style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.88129234;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="10.929198"
+         x="53.4869"
+         height="215.46259"
+         width="123.47992"
+         id="rect4823" />
+      <g
+         transform="translate(17.655901,9.0871644)"
+         id="g6620"
+         class="key"
+         key="KEY_HDMI_PREV">
+        <g
+           id="g6611">
+          <circle
+             r="9.5890608"
+             style="fill:#e3dedb;fill-opacity:0;stroke:#01000e;stroke-width:0.82187754;stroke-opacity:1"
+             cy="25.787109"
+             cx="67.937302"
+             id="path5091" />
+        </g>
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 68.688267,22.781465 0.267271,6.147198 -4.810852,-2.939964 z"
+           id="path6550"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 63.877416,22.514195 0.267269,6.414469"
+           id="path6552"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="translate(17.655901,9.0871644)"
+         id="g6625"
+         class="key"
+         key="KEY_HDMI_NEXT">
+        <circle
+           id="path5091-3"
+           cx="129.95358"
+           cy="26.590481"
+           style="fill:#e3dedb;fill-opacity:0;stroke:#080008;stroke-width:0.82187754;stroke-opacity:1"
+           r="9.5890608" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 128.47724,29.321517 -0.26727,-6.14719 4.81085,2.93996 z"
+           id="path6550-7"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 133.36749,22.765348 0.26727,6.414469"
+           id="path6552-5"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="translate(17.655901,9.0871644)"
+         id="g6630"
+         class="key"
+         key="KEY_HDMI_1">
+        <circle
+           id="path5091-9"
+           cx="99.035126"
+           cy="46.698811"
+           style="fill:#e3dedb;fill-opacity:0;stroke:#080000;stroke-width:0.82187754;stroke-opacity:1"
+           r="9.5890608" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="95.949753"
+           y="50.042957"
+           id="text6586"><tspan
+             sodipodi:role="line"
+             id="tspan6584"
+             x="95.949753"
+             y="50.042957"
+             style="stroke-width:0.26458332">1</tspan></text>
+      </g>
+      <g
+         transform="translate(17.655901,12.262166)"
+         id="g6646"
+         key="KEY_HDMI_2"
+         class="key">
+        <circle
+           id="path5091-5"
+           cx="67.36071"
+           cy="73.081551"
+           style="fill:#e3dedb;fill-opacity:0;stroke:#080018;stroke-width:0.82187754;stroke-opacity:1"
+           r="9.5890608" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="64.27832"
+           y="76.769913"
+           id="text6590"><tspan
+             sodipodi:role="line"
+             id="tspan6588"
+             x="64.27832"
+             y="76.769913"
+             style="stroke-width:0.26458332">2</tspan></text>
+      </g>
+      <g
+         transform="translate(-14.416442,11.225321)"
+         id="g6635"
+         class="key"
+         key="KEY_HDMI_3">
+        <circle
+           id="path5091-7"
+           cx="131.16309"
+           cy="74.064293"
+           style="fill:#e3dedb;fill-opacity:0;stroke:#080000;stroke-width:0.82187754;stroke-opacity:1"
+           r="9.5890608" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="128.55664"
+           y="78.106255"
+           id="text6594"><tspan
+             sodipodi:role="line"
+             id="tspan6592"
+             x="128.55664"
+             y="78.106255"
+             style="stroke-width:0.26458332">3</tspan></text>
+      </g>
+      <g
+         transform="translate(49.193705,-18.185072)"
+         id="g6641"
+         key="KEY_HDMI_4"
+         class="key">
+        <g
+           id="g6614">
+          <circle
+             r="9.5890608"
+             style="fill:#e3dedb;fill-opacity:0;stroke:#080000;stroke-width:0.82187754;stroke-opacity:1"
+             cy="104.22681"
+             cx="98.430359"
+             id="path5091-75" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="94.747047"
+           y="108.44135"
+           id="text6598"><tspan
+             sodipodi:role="line"
+             id="tspan6596"
+             x="94.747047"
+             y="108.44135"
+             style="stroke-width:0.26458332">4</tspan></text>
+      </g>
+      <rect
+         y="167.10701"
+         x="80.715393"
+         height="12.828942"
+         width="67.886459"
+         id="rect6807"
+         style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.06500006;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text6811"
+         y="177.26324"
+         x="84.457169"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="177.26324"
+           x="84.457169"
+           id="tspan6809"
+           sodipodi:role="line">HDMI - 501</tspan></text>
+      <g
+         id="g7016"
+         class="key"
+         key="KEY_HDMI_5">
+        <g
+           id="g7010">
+          <circle
+             r="9.5890608"
+             style="fill:#e3dedb;fill-opacity:0;stroke:#080018;stroke-width:0.82187754;stroke-opacity:1"
+             cy="114.72218"
+             cx="115.46043"
+             id="path5091-5-2" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="112.37804"
+           y="118.41055"
+           id="text6590-4"><tspan
+             sodipodi:role="line"
+             id="tspan6588-5"
+             x="112.37804"
+             y="118.41055"
+             style="stroke-width:0.26458332">5</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
