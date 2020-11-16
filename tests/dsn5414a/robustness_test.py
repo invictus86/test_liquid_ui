@@ -22,3 +22,4 @@ def test_stop_dta():
     """
     _, _, dta = v5utils.v5_sys_init()
     dta.stop()
+
