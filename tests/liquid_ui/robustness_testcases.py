@@ -29,3 +29,13 @@ def test_100_times_channel_switch():
         stbt.press("KEY_DOWN")
     time.sleep(3)
     stbt.wait_for_motion(timeout_secs=3)
+
+
+def test_100_times_entering_exiting_epg():
+    """
+    100 times of entering and exiting EPG with the fastest speed
+    :return: none
+    """
+    for _ in range(200):
+        stbt.press("KEY_EPG")
+    time.sleep(3)
