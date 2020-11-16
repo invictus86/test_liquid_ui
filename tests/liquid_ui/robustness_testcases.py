@@ -39,3 +39,12 @@ def test_100_times_entering_exiting_epg():
     for _ in range(200):
         stbt.press("KEY_EPG")
     time.sleep(3)
+
+
+def test_100_times_channel_switch_in_epg():
+    """
+    100 times of channel switch in the EPG with the fastest speed
+    :return:
+    """
+    # todo 未完成
+    pass
