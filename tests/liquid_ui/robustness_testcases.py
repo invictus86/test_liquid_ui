@@ -44,7 +44,16 @@ def test_100_times_entering_exiting_epg():
 def test_100_times_channel_switch_in_epg():
     """
     100 times of channel switch in the EPG with the fastest speed
-    :return:
+    :return: none
+    """
+    # todo 未完成
+    pass
+
+
+def test_100_times_event_switch_in_epg():
+    """
+    100 times of switching between different program events of the same channel with the fastest speed
+    :return: none
     """
     # todo 未完成
     pass
