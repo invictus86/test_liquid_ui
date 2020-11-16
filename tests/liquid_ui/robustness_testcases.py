@@ -27,4 +27,5 @@ def test_100_times_channel_switch():
     """
     for _ in range(100):
         stbt.press("KEY_DOWN")
+    time.sleep(3)
     stbt.wait_for_motion(timeout_secs=3)
